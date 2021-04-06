@@ -1,0 +1,48 @@
+{
+  "name": "react-native-modern-calendar",
+  "version": "1.0.0",
+  "description": "Calendário, hora e mês personalizável para React Native",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "author": "Jheison Maciel Ines",
+  "homepage": "https://jhsonmac.github.io/react-native-modern-calendar/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhsonmac/react-native-modern-calendar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhsonmac/react-native-modern-calendar/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-datepicker",
+    "datepicker",
+    "calendar",
+    "react-native-calendar",
+    "react-native-calendars",
+    "time-picker",
+    "react-native-time-picker",
+    "month-picker",
+    "react-native-month-picker",
+    "customizable-datepicker"
+  ],
+  "dependencies": {
+    "moment-jalaali": "^0.9.2",
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.59"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "@babel/core": "^7.5.5",
+    "@babel/runtime": "^7.5.5",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "eslint": "^6.3.0",
+    "metro-react-native-babel-preset": "^0.56.0"
+  }
+}
