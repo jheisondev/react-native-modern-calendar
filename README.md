@@ -1,13 +1,13 @@
-# React Native Moder Calendar [![npm](https://img.shields.io/npm/v/react-native-date-picker.svg)](https://www.npmjs.com/package/react-native-modern-calendar) [ ![npm](https://img.shields.io/npm/dm/react-native-date-picker.svg)](https://www.npmjs.com/package/react-native-date-picker)
+# React Native Moder Calendar 
 
 ## Bem vindo ao react-native-modern-calendar
 
-📱 O pacote é compatível com Android e iOS. <br>
-💡 Este pacote usa React Hooks. Certifique-se de que está executando o react-native >= 0.59.0<br>
-🖌  Por padrão, este pacote herda a família de fontes do seu projeto ('Sistema'). Você pode usar sua própria fonte personalizada, consulte as opções prop<br>
-🕑 3 diferentes modos: Time, Date, DateTime <br>
-🌍 Pt-br<br>
-🎨 Customizável<br>
+📱 O pacote é compatível com Android e iOS. <br/>
+💡 Este pacote usa React Hooks. Certifique-se de que está executando o react-native >= 0.59.0<br/>
+🖌  Por padrão, este pacote herda a família de fontes do seu projeto ('Sistema'). Você pode usar sua própria fonte personalizada, consulte as opções prop<br/>
+🕑 3 diferentes modos: Time, Date, DateTime <br/>
+🌍 Pt-br<br/>
+🎨 Customizável<br/>
 
 ## Instalação
 
