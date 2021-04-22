@@ -30,9 +30,6 @@ const BasicUsage = () => {
 };
 ```
 
-<iframe src="https://hosseinshabani.github.io/react-native-modern-datepicker/static/basic_usage-acfccf081c95a6f27a8080ec08108f3d.mp4" frameborder="0" style="border:none;" allowfullscreen="false" width="400" height="400"> </iframe>
-
-
 ## Personalizável
 
 ```jsx
@@ -81,9 +78,6 @@ const MinMaxExample = () => {
 };
 ```
 
-<iframe src="https://hosseinshabani.github.io/react-native-modern-datepicker/static/min_max-95478d668789c0d3c2cd96e4bd163d27.mp4" frameborder="0" style="border:none;" allowfullscreen="false" width="400" height="400"> </iframe>
-
-
 ## Horário 
 
 ```jsx
@@ -102,6 +96,4 @@ const TimePickerExample = () => {
   );
 };
 ```
-
-<iframe src="https://hosseinshabani.github.io/react-native-modern-datepicker/static/timepicker-f3b34c8ce1d070ba551b48d8e03b9626.mp4" frameborder="0" style="border:none;" allowfullscreen="false" width="400" height="400"> </iframe>
 
