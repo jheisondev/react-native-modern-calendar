@@ -2,12 +2,18 @@
 
 ## Bem vindo ao react-native-modern-calendar
 
-📱 O pacote é compatível com Android e iOS. </br>
-💡 Este pacote usa React Hooks. Certifique-se de que está executando o react-native >= 0.59.0</br>
-🖌  Por padrão, este pacote herda a família de fontes do seu projeto ('Sistema'). Você pode usar sua própria fonte personalizada, consulte as opções prop</br>
-🕑 3 diferentes modos: Time, Date, DateTime </br>
-🌍 Pt-br</br>
-🎨 Customizável</br>
+📱 O pacote é compatível com Android e iOS. 
+
+💡 Este pacote usa React Hooks. Certifique-se de que está executando o react-native >= 0.59.0
+
+🖌  Por padrão, este pacote herda a família de fontes do seu projeto ('Sistema'). Você pode usar sua própria fonte personalizada, consulte as opções prop
+
+🕑 3 diferentes modos: Time, Date, DateTime 
+
+🌍 Pt-br
+
+🎨 Customizável
+
 
 ## Instalação
 
